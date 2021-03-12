@@ -114,4 +114,3 @@ if __name__ == '__main__':
      pool = Pool(processes=5)
      pool.map(make_request, merge_list)
      print("실행 시간(초) : %s" % (time.time() - start_time))
- 
