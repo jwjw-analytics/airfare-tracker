@@ -90,4 +90,8 @@ Tableau and Excel were used for data visualization. Map chart is also available 
 [Aifrare Tracker.xlsx](link)
 
 ## Data Update
-you need to see dynamic data
+
+Daily data update is achievable. In order to web-scrape flight price data automatically on daily basis, make batch files for each Python code that you have created. Then schedule to run the batch files using Task Scheduler (Windows) or Automator (Mac). This will able you to obtain raw data automatically.
+
+[Windows Task Scheduler](https://www.thewindowsclub.com/how-to-schedule-batch-file-run-automatically-windows-7)\
+[Macintosh Automator](https://support.apple.com/en-eg/guide/automator/welcome/mac)
