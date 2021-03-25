@@ -66,7 +66,7 @@ There are many travel metasearch engine (e.g., Skyscanner, Kayak, Expedia, etc.)
 Selenium package is used to automate web browser, and BeautifulSoup package extracts the data out of HTML and XML files. Both packages in action are shown below.
 
 <p align="center">
-  <img width="956" alt="스크린샷 2021-03-24 오후 9 58 39" src="https://user-images.githubusercontent.com/44926255/112314231-1fe1e300-8cec-11eb-91c7-30fbea36dcc0.png">
+  <img width="1211" alt="스크린샷 2021-03-25 오후 2 58 03" src="https://user-images.githubusercontent.com/44926255/112426029-8a416480-8d7a-11eb-9d47-f5832b713211.png">
 </p>
 
 Once scraping for each route is completed, data are saved in Excel file. Number of output Excel files should be same as number of target routes you have specified in target.xlsx.
