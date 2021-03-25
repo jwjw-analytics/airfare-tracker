@@ -69,7 +69,7 @@ Selenium package is used to automate web browser, and BeautifulSoup package extr
   <img width="956" alt="스크린샷 2021-03-24 오후 9 58 39" src="https://user-images.githubusercontent.com/44926255/112314231-1fe1e300-8cec-11eb-91c7-30fbea36dcc0.png">
 </p>
 
-Once scraping for each route is completed, data are saved in Excel file. Number of output excel files should be same as number of target routes you have specified in target.xlsx.
+Once scraping for each route is completed, data are saved in Excel file. Number of output Excel files should be same as number of target routes you have specified in target.xlsx.
 
 ### Data Wrangling
 
